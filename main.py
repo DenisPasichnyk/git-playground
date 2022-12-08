@@ -64,3 +64,5 @@ while not is_game_over():
 
 if is_game_over():
     print("You lose :(")
+
+a = 2
